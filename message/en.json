@@ -1,0 +1,36 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "selectLanguage": "Change Language",
+    "translate": "Translate"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "English to Khmer Translator",
+    "subtitle": "Translate your text easily",
+    "inputPlaceholder": "Enter your English text here",
+    "translateButton": "Translate to Khmer",
+    "resultTitle": "Translation Result"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit",
+    "reset": "Reset"
+  },
+  "common_phrases": {
+    "hello": "Hello",
+    "goodbye": "Goodbye",
+    "thank_you": "Thank you",
+    "how_are_you": "How are you?",
+    "good_morning": "Good morning",
+    "good_evening": "Good evening",
+    "see_you_later": "See you later",
+    "welcome_to_cambodia": "Welcome to Cambodia"
+  }
+}
